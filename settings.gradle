@@ -1,0 +1,2 @@
+include ':app', ':chatmodels', ':mapmodels', ':repository', ':chatrepository', ':maprepository', ':presentation'
+rootProject.name='ModularizationCorePoc'
